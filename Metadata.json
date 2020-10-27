@@ -1,0 +1,20 @@
+{
+    "Author": "Tom Hollander",
+    "ContentSize": 1347,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/dump-azure-classic-vms-to-csv/master/DumpClassicVMs.ps1",
+    "DownloadCount": 3131,
+    "Id": "Dump-Azure-Classic-VMs-to-d964d3ce",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 298,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-11-22T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Looks up details of any Azure Classic (ASM) Virtual Machines across whatever subscriptions you have access to, and writes them to a .CSV file. This allows you to easily analyse the details in Excel, for example to show charts or Pivot Tables listing VMs by size, status, location,",
+    "Title": "Dump Azure Classic VMs to CSV",
+    "UpdatedDate": "2016-11-22T00:00:00",
+    "Url": "https://github.com/azureautomation/dump-azure-classic-vms-to-csv",
+    "UserTags": "Microsoft Azure, Microsoft Azure Virtual Machines, Azure Service Manager"
+}
